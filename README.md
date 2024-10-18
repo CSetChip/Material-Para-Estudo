@@ -6,11 +6,12 @@ Seja muito bem-vindo ao meu repositório! Aqui você encontrará uma variedade d
 
 ### O que você vai encontrar aqui? 📚
 
-- **Java**: Projetos e exercícios de programação em Java.
-- **Libras**: Materiais e recursos sobre a Língua Brasileira de Sinais (Libras).
-- **Metodologias Ágeis**: Documentos e estudos sobre metodologias ágeis como Scrum e Kanban.
-- **React**: Projetos e componentes desenvolvidos com React.
-- **SQL**: Scripts, consultas e bancos de dados relacionais.
+- **Java**
+- **Libras**
+- **Metodologias Ágeis**
+- **React**
+- **SQL**
+- **Git/GitHub**
 
 ### Como navegar? 🗂️
 
